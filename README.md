@@ -6,7 +6,8 @@ Excel Projects:
 1. https://github.com/Nityatewari/E-commerce_sales_dashboard 
 2. https://github.com/Nityatewari/Supersore_Sales_Analysis
 3. https://github.com/Nityatewari/Predicting-restaurant_tips
-4. https://github.com/Nityatewari/Sales_Performance_Analysis
+4. https://github.com/Nityatewari/Sales_analysis_Dashboarding
+5. https://github.com/Nityatewari/Sales_Performance_Analysis
 
 
 SQL Projects:

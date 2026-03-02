@@ -15,4 +15,4 @@ SQL Projects:
 2. https://github.com/Nityatewari/Air_Cargo_Analysis
 
 Projects:
-https://github.com/Nityatewari/Financial-Fraud-Detection-Anomaly-Detection-in-Credit-Card-Transactions
+1. https://github.com/Nityatewari/Financial-Fraud-Detection-Anomaly-Detection-in-Credit-Card-Transactions

@@ -17,4 +17,4 @@ SQL Projects:
 Projects:
 1. https://github.com/Nityatewari/Financial-Fraud-Detection-Anomaly-Detection-in-Credit-Card-Transactions
 2. https://github.com/Nityatewari/Retail-Analytics-Predicting-Customer-Purchase-Behavior
-3. 
+3. https://github.com/Nityatewari/Healthcare-Management-Patient-Readmission-Prediction

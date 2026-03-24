@@ -14,12 +14,8 @@ SQL Projects:
 1. https://github.com/Nityatewari/Employee_performance_mapping
 2. https://github.com/Nityatewari/Air_Cargo_Analysis
 
-Projects:
-1. https://github.com/Nityatewari/Financial-Fraud-Detection-Anomaly-Detection-in-Credit-Card-Transactions
-2. https://github.com/Nityatewari/Retail-Analytics-Predicting-Customer-Purchase-Behavior
-3. https://github.com/Nityatewari/Healthcare-Management-Patient-Readmission-Prediction
 
-Capstone Projects during program:
+Capstone Projects during program (includes Excel, SQL, Python and Tableau tasks)
 1. https://github.com/Nityatewari/Financial-Fraud-Detection-Anomaly-Detection-in-Credit-Card-Transactions
 2. https://github.com/Nityatewari/Healthcare-Management-Patient-Readmission-Prediction
 3. https://github.com/Nityatewari/Retail-Analytics-Predicting-Customer-Purchase-Behavior
